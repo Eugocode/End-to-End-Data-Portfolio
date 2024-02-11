@@ -17,26 +17,26 @@ Tutorial Playlist: https://youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM
 ## Week 1: Getting Started
 
 - Installed the necessary software tools.
-  1. Python
-  2. VS Code (optional)
-  3. SQL Server 2022 (Developer)
-     - Visual Studio
-     - SQL Server Data Tools (SSDT) for Visual Studio
-     - PostgreSQL
-     - PowerBI Desktop
-  4. Git
+  - Python
+  - VS Code (optional)
+  - SQL Server 2022 (Developer)
+    - Visual Studio
+    - SQL Server Data Tools (SSDT) for Visual Studio
+    - PostgreSQL
+    - PowerBI Desktop
+  - Git
 
-## Week 2: Version control and virtual envionment essetials for data professionals
+## Week 2: Version control and virtual envionment essentials for data professionals
 
 - Used git commands, and created a local repository with virtual environment and learned how to add requirements.txt file that contains the packages needed for reproducibility.
 
   Commonly used Git commands:
 
-  1. git init . #dot for current directory
-  2. git add . #dot for all changes
-  3. git commit -m "This is my commit message."
-  4. git rm your_file_name.ext #used to remove files
-  5. git push
-  6. git pull
+  - git init . #dot for current directory
+  - git add . #dot for all changes
+  - git commit -m "This is my commit message."
+  - git rm your_file_name.ext #used to remove files
+  - git push
+  - git pull
 
 - Connected the device to a GitHub account and pushed changes to GitHub repository.
