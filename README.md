@@ -13,6 +13,7 @@ Tutorial Playlist: https://youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM
    `python -m venv env`
 3. Activate virtual environment.
    - for powershell `.\env\Scripts\Activate.ps1`
+   - for cmd `.\env\Scripts\activate.bat`
 4. Install the packages.
    `pip install -r .\requirements.txt`
 
@@ -42,3 +43,15 @@ Tutorial Playlist: https://youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM
   - git pull
 
 - Connected the device to a GitHub account and pushed changes to GitHub repository.
+
+## Week 3: Extracting data from web to FTP using Python
+
+- Set up WSL.
+- Installed vsftpd (FTP server for Unix-like systems) and adjusted its configuration.
+- Set up a Python development environment.
+- Activated and deactivated the Python development environment.
+- Connected to an FTP server and established a secure connection.
+- Created a pipeline for data extraction and upload.
+- Read CSV data from the web and used config.json file to optimize the process of data extraction
+- Uploaded the CSV file to the FTP server, then deleted the file from the local filesystem.
+- Wrote a script for manual or scheduled execution of the task.
