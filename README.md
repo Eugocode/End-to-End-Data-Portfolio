@@ -11,8 +11,10 @@ Tutorial Playlist: https://youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM
 1. Clone this repository.
 2. Create a virtual environment.
    `python -m venv env`
-3. Install the packages.
-   `pip install -r requirements.txt`
+3. Activate virtual environment.
+   - for powershell `.\env\Scripts\Activate.ps1`
+4. Install the packages.
+   `pip install -r .\requirements.txt`
 
 ## Week 1: Getting Started
 
