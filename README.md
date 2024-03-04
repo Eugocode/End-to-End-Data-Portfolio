@@ -44,7 +44,7 @@ Tutorial Playlist: https://youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM
 
 - Connected the device to a GitHub account and pushed changes to GitHub repository.
 
-## Week 3: Extracting data from web to FTP using Python
+## Week 3: Extracting Data from Web to FTP using Python
 
 - Set up WSL.
 - Installed vsftpd (FTP server for Unix-like systems) and adjusted its configuration.
