@@ -28,7 +28,7 @@ Tutorial Playlist: https://youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM
     - PowerBI Desktop
   - Git
 
-## Week 2: Version control and virtual envionment essentials for data professionals
+## Week 2: Version Control and Virtual Environment Essentials for Data Professionals
 
 - Used git commands, and created a local repository with virtual environment and learned how to add requirements.txt file that contains the packages needed for reproducibility.
 
