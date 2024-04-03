@@ -55,3 +55,5 @@ Tutorial Playlist: https://youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM
 - Read CSV data from the web and used config.json file to optimize the process of data extraction
 - Uploaded the CSV file to the FTP server, then deleted the file from the local filesystem.
 - Wrote a script for manual or scheduled execution of the task.
+
+## Week 4: Loading CSV files from FTP to PostgreSQL using SSIS
