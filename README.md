@@ -57,3 +57,12 @@ Tutorial Playlist: https://youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM
 - Wrote a script for manual or scheduled execution of the task.
 
 ## Week 4: Loading CSV files from FTP to PostgreSQL using SSIS
+
+## Week 5: Developing Screening API using FastAPI 
+- Compared strings with fuzzy logic
+<!-- research about fuzzy matching --> 
+  Fuzzy logic refers to approximate match between two different texts. Similarities can be calculated regardless of the spelling. It is based on insertion, deletion, and transposition.</br>
+
+  API stand for application programming interface, which is a set of protocols that enable different software components to communicate and transfer data. 
+
+  
